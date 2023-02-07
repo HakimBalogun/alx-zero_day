@@ -4,4 +4,4 @@ My first readme
 
 This is a test!
 
-***** End of change *****
+***** End of edit *****
